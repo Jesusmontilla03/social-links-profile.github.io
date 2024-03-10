@@ -76,9 +76,10 @@ body {
 }
 .attribution {
     text-align: center;
+    color: var(--Grey);
 }
 .attribution  a {
-    color: var(--Grey);
+    color: var(--Green);
 }
 @media (max-width: 380px) {
     .main-container {
